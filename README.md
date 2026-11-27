@@ -1,4 +1,4 @@
-# Character Manager FX v0.7 — Kelompok [Character-Manager-fx--kelompok4]
+# Character Manager FX v0.7 — Kelompok Character-Manager-fx--kelompok4
 
 Migrasi Character Manager dari Swing (v0.6) ke JavaFX + FXML (v0.7).
 Mata Kuliah Java Visual (SIH-6406) · UNPRI Prodi Sistem Informasi.
@@ -6,9 +6,9 @@ Mata Kuliah Java Visual (SIH-6406) · UNPRI Prodi Sistem Informasi.
 ## Anggota dan Peran
 | Nama | NIM | Peran | Username GitHub | Branch |
 |------|-----|-------|-----------------|--------|
-| [Marshall Aria Bima Ginting] | [253303621253] | Model Manager      | [marshallginting] | feature/model |
-| [Yusup Aritonang] | [253303621294] | View Manager       | [yusupsimaremare] | feature/view |
-| [Imanuel Christ P Simatupang] | [253303621276] | Controller Manager | [immanuelsimatupang1234yes-prog] | feature/controller |
+| Marshall Aria Bima Ginting | 253303621253 | Model Manager      | marshallginting | feature/model |
+| Yusup Aritonang | 253303621294 | View Manager       | yusupsimaremare | feature/view |
+| Imanuel Christ P Simatupang | 253303621276 | Controller Manager | immanuelsimatupang1234yes-prog | feature/controller |
 
 ## Teknologi
 Java 17 · JavaFX 21 · Maven · Scene Builder · VS Code

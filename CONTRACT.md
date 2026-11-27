@@ -1,6 +1,6 @@
 # CONTRACT — Character Manager v0.7
 
-## 1. Model (milik: [Marshall Aria Bima Ginting])
+## 1. Model (milik: Marshall Aria Bima Ginting)
 Package: com.unpri.charactermanager.model
 
 | Class            | Anggota yang dipakai Controller                          |
@@ -29,7 +29,7 @@ Kebutuhan Controller -> method Model (hanya ini yang dipakai):
 Aturan: model TIDAK mengimpor javafx.* maupun javax.swing.*.
 Model v0.6 tidak diubah, kecuali menambah getAverageLevel() bila belum ada.
 
-## 2. View / FXML (milik: [Yusup Aritonang])
+## 2. View / FXML (milik: Yusup Aritonang)
 Berkas: src/main/resources/com/unpri/charactermanager/view/CharacterView.fxml
 fx:controller = com.unpri.charactermanager.view.CharacterController
 
@@ -49,7 +49,7 @@ fx:controller = com.unpri.charactermanager.view.CharacterController
 | Simpan | #handleSave    |
 | Reset  | #handleReset   |
 
-## 3. Controller (milik: [Imanuel Christ P Simatupang])
+## 3. Controller (milik: Imanuel Christ P Simatupang)
 Class: com.unpri.charactermanager.view.CharacterController
 
 | Method                           | Keterangan                                   |
